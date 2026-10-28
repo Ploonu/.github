@@ -8,4 +8,4 @@ We focus on useful features, thoughtful design, accessibility, and reliable soft
 
 - **Website:** [ploonu.com](https://ploonu.com)
 - **Contact:** [support@ploonu.com](mailto:support@ploonu.com)
-- **Personal GitHub:** [@larohndale](https://github.com/dominquecox) | [@larohndale](https://github.com/larohndale)
+- **Personal GitHub:** [@dominquecox](https://github.com/dominquecox) | [@larohndale](https://github.com/larohndale)
